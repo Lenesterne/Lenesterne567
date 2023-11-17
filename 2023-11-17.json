@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Hanson",
+  "age": 22,
+  "address": {
+    "street": "Rofis Lane",
+    "city": "Nakuraz",
+    "state": "NH",
+    "zip": "47273"
+  },
+  "contact": {
+    "phone": "(606) 225-4351",
+    "servicePhone": "800555345"
+  },
+  "birthday": "1987-05-11T10:15:30.513Z",
+  "ip": "51.166.16.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu hak hiuf es odisoh bep wevet op dagutu ow webi tipopo actawon moat ro zisig mudkatab gi. Sa ik tuji herwolo co getravuz evsuvla iramku cotoigo padawsak uleivala ku ocubargel guw cirelav dedupu gopco ajtip. Ri hiolid ho cedkiva um zulomo ta soul gerigo gohsi boh bugiwepi ehoremnu jah nacagim.",
+    "bio": "Wul se elaava cidef neit uwiic fo bam imiidu cono utu urpa. Uc mid co pes hizwengi ga not rid ot huha za ucozun igu bo hacun. Utse hic karzolad ir ve aveigu hupsit lupu ul pig rikovu haanaji mikospi."
+  },
+  "apiKey": "1de9406f78ee27bed876261c9ece65a466cd0d739115df0e40f1ff0fde6821ab",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
