@@ -1,0 +1,26 @@
+{
+  "name": "Lela Oliver",
+  "age": 50,
+  "address": {
+    "street": "Tefop Plaza",
+    "city": "Kowijfif",
+    "state": "CT",
+    "zip": "88909"
+  },
+  "contact": {
+    "phone": "(866) 468-4152",
+    "servicePhone": "800546973"
+  },
+  "birthday": "1986-02-24T15:22:35.080Z",
+  "ip": "1.42.172.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Azode mit susli pediw emowa ga utis kog gercum gusitud vat elagav ted. Benekpag cavatore ronave ivozanu me zejoho kapez gunjovdo fid pemruz wodju nijep. Joh unejos ridaji fazis kar gi kesab se olapebber gut ertuvuwa kahnitfu uwi ik. Afpup nobpurtu ozi asut ke ciducfu med wunilo gobkikumu rafos kum jajafoc wesmannab icziri iw pi.",
+    "bio": "Wocnij cagwa kot ruozci mol lodwiz mujtulka tevniw bitkidar dev sug sinoc ami tacurnav sezga jiit riguro. Loujave kowekcuj vajuc oha mohi nep johbe cowit recvo fakmeta ciboweca kegilcup ateto wek dicja nogpij jengizbus epig. Ufezon fojhav latwo ugikoku rewkow wop hacil huti luclafgam tilirhu ha hefdais av uzekvaz ro."
+  },
+  "apiKey": "204df1dc553603b17482dd8dc9b99dbc12a8f917a15dd99cd4edffef3e57c5fb",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
