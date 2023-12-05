@@ -1,0 +1,26 @@
+{
+  "name": "Andre Knight",
+  "age": 56,
+  "address": {
+    "street": "Muzu Circle",
+    "city": "Jojegzi",
+    "state": "IN",
+    "zip": "66074"
+  },
+  "contact": {
+    "phone": "(455) 360-1252",
+    "servicePhone": "800164239"
+  },
+  "birthday": "1978-08-13T11:32:02.875Z",
+  "ip": "240.175.42.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Tawbes ahu kava diab lihatavos be bo ves hizvol jor jiz huktan eleite jem juwik pedgais wuw ruho. Noiw hisdacbu uh nuwzut biriw esu reuvape go misanicum irkorles cajevir putimmoh. If mozdeva heazho humecvil nubde comuwzi res mobvoljez vebubcaj ruic ewtunzub ruhi por od gu vevtam num pep. Siage de duzhiki fek ipihaf de zozawe fa opacukiw kekuhdil gedorat dow cep toh ujli.",
+    "bio": "Hu fiako ih molid roaza iwimi secoj so kodaf laljog negoto umole cufcu baduvmo ric osuitalit. Okada pu lafagmif cufan zah lid adezma er pa adojoop lejva apmugib mawvikov agujaboc se higu fuci. Jarfasic cirte kapip vit faotute iweeli panho piv akcat ga julmit wotjapmoj ufudoz gof gim vab. Sovji fo la mit ag demferne mub buv atiod odoejeb zez osconreh onlecew pofinme. Vag cajwiw vi la maomiv ri ul dibaw bimju vifamer icta egviono voljin ocujopaf if rar gubnu. Muloape ij rofufo kah jur rudokze zaba zeftoklup op tavsinlaj egezamdo ludusdav bufem weoju."
+  },
+  "apiKey": "ca2000b846936ea7cfe78d584325c85961e02ab643e63d47b60f7433466eca96",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
