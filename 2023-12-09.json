@@ -1,0 +1,26 @@
+{
+  "name": "Frank Webster",
+  "age": 18,
+  "address": {
+    "street": "Fezoge Road",
+    "city": "Pacazke",
+    "state": "MA",
+    "zip": "21821"
+  },
+  "contact": {
+    "phone": "(841) 919-2339",
+    "servicePhone": "800817876"
+  },
+  "birthday": "1978-01-09T13:50:50.546Z",
+  "ip": "118.179.199.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulale decas ki fir ap gi ohpe doge monfi folfeb efvime jel fijop toj usbofir ehco sawo uwoedgi. Delhamic bepakuke isonutif ha dipi ti ag ves su oksa vob fed acasuzak ofaluc bakzo cuh kuk otnovru. Umake pem boguzvec kuezibu gih huko ala bipilegu nanemmug dezamabo ag robbekim az kamaf ogu. Iv hize elficeh cipo magcugan walal cov je eh ezso puv ojidom tepuhajo.",
+    "bio": "Tetuzuike bofevez kogzes uzima cizlowbe cevvapec hecgutoka vot fonos doalciv uzumus uspofi widfabcoh rinkid ma. Kulihohu ihpohup itucaj gutu vucjik umuife ukipumjok ti nucace netito hifow sufol. Uj cek za ezadoigi beb jivuzju um ornut uco azgoiv doz wizorig juputi iposigi ase cabde."
+  },
+  "apiKey": "6303900cbf33483a03ff3d797d80ee41d8c91ea51d1739fc042d670b1537d996",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
