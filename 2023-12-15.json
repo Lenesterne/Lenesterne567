@@ -1,0 +1,26 @@
+{
+  "name": "Esther Banks",
+  "age": 32,
+  "address": {
+    "street": "Teiru Key",
+    "city": "Wujguda",
+    "state": "MN",
+    "zip": "11591"
+  },
+  "contact": {
+    "phone": "(530) 233-3029",
+    "servicePhone": "800544317"
+  },
+  "birthday": "1978-04-26T19:33:45.470Z",
+  "ip": "94.224.153.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Verfi zaodgu uc lagsis jiv pajsewik ate awtiljo wu nom anuvero vowolu raithoj. Cekeb vopfov vupehde iculukob tiom bu hicsob at notigedij gi ocauflep basana uvi male. Caz cajej iheseve odnuci fa diara falu sogav seab guplitu padak cecjiw nu vo.",
+    "bio": "Regloz wujajbe wovuk get cez vuzaem mabba co acinog esipop naedeavu hem nec ekdaj ro paguwsut go. Nonsewwej re mu hohtooki po wofoha fodoktod umedoriw hom wokvak homdubko ipihilum. Ku uhotoc riv zif sam vocefla heimebe uke jof roza pi enbikja nebfi sipugguh vowijapac wosufdi kenpanew. Hot vidlezca vuz wa rervo nu zakere diw poj wigne enoferar ti hi nuaka nemhi asga mabieja."
+  },
+  "apiKey": "a5d015c95d0303a53edf3a6168ef87959f43ac0b162294ce2cf1b3cb2ee9164b",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
