@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Hunt",
+  "age": 30,
+  "address": {
+    "street": "Tusiz Lane",
+    "city": "Ohzehes",
+    "state": "GA",
+    "zip": "69297"
+  },
+  "contact": {
+    "phone": "(943) 394-9486",
+    "servicePhone": "800187565"
+  },
+  "birthday": "1998-02-06T06:10:16.216Z",
+  "ip": "237.123.249.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Ikpote lad ir jekjet jif uzbi zerav duin dunsob bis tikadoh vekfi odpudva evdu serwilte kiptos. At huvwiswej dufjit tirpuzic solis nu ne abuakic olawa izozaju bit pumu lapdo. Mi hitebus miwmaja gin sodnu sepo wi miguk milu zafekanuc toceb gabuer sot. Gemed pahuzjun wamabegoj petlad niifco upcog cawbetum panicwa sivefred ehka de ro ket voz etijizba. To hir okan ko bod bucidbu soos guivo worfezkil zaelose iv jo bewukis raziko ciwid ahiroke hook. Lebosa uwaocfid sogewre liv ukamefreh pulaci wu uwwuhol so peid nobogir bi irepecle fekujlod ve urzogku ba wer. Lahajaf ho fijatli kasmetre ofiakimu an sob umgooc fertel ap to jazgeiz tojnejap sinbejec fi foniito.",
+    "bio": "Fo puha basbo kit apvomow oboworva tefofrin hisiduiho gohguna nune ogenauz inogi fegorow dihimli. Hizsu so maca da ceeh hi loirbo malkobij afe vovjucga feliso vepruzhom. Wog widugsuv etnej effuos tivful tunicotuj buw vehufbo fimi kithadot vemial vu howem dop oseido. Ipeimago berati vibmocta dumunubi tuwo sumo ri ucfo owat ravhez ujuvebop pajiz pejtizon. Celvorca lohuv lekmu hibsi defsupov fom uw migja toukuina ed pebwipzed ji opwu deabbi adizi. Mem ivoepew hoc nomovkap ofpuw se zed jaso goba sa no amehavzi hohuc dop pihem not."
+  },
+  "apiKey": "fbd98396a1f768eba7b21f829862136b15f2656d82ebc32eeaeddb62d8702de0",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
