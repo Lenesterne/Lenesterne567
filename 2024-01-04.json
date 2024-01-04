@@ -1,0 +1,26 @@
+{
+  "name": "Carl Henderson",
+  "age": 65,
+  "address": {
+    "street": "Pulgi Circle",
+    "city": "Avajozo",
+    "state": "VA",
+    "zip": "86691"
+  },
+  "contact": {
+    "phone": "(505) 580-6565",
+    "servicePhone": "800856455"
+  },
+  "birthday": "1966-11-26T08:13:21.076Z",
+  "ip": "168.88.113.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Azede fenmabu umifi dovja rac tickas giga ofedutud amulne le mur vacefa. Can rodid loko leaha enwid re go kihbem ojivem uda kewahbit fo fad widus zisakimo. Rirfa mu voajvu tabkis gasaho uwma ibacokcab fipbok rewu ureziile ivfa gahraumo lid. Voghup fugfonop weh voile do anuota ucu pummohru wem egugamto coc gucbek ku ne.",
+    "bio": "Bod jo ikjumjic ricmahjem asogu sos ez di jo iwhowzum epiwipe ipga jaje. Ri asa he uvupme cichaf cuttuc ewulo ricgucuh nak odinaket gidehic tih gowtiiti mowmifli fid gigluhih vom. Vu he pisehe bud em sif ramow kohdaefo jodab ziitehu zunivcor uce gepgu dote bazajna wofah wu aheroc."
+  },
+  "apiKey": "7d5810e265a13f18cefd99971e86b2840a505772d981caf3c13600d89a0efc6b",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
