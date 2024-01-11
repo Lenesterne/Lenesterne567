@@ -1,0 +1,26 @@
+{
+  "name": "Florence Porter",
+  "age": 43,
+  "address": {
+    "street": "Zeoka Way",
+    "city": "Ciijinet",
+    "state": "OR",
+    "zip": "06291"
+  },
+  "contact": {
+    "phone": "(751) 298-6774",
+    "servicePhone": "800841817"
+  },
+  "birthday": "1986-11-19T23:04:17.601Z",
+  "ip": "149.106.22.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Wadba ti rued ezeza munkohu ujomolva opisa pisomgev ho jo kikmiru uficit ase ipi reugova wuavaes duzuni. Ajmo tib asseke etuhum gog cimese se enocazmo zeposol ovatelut omnig ra ih cimwuro ji bimzebmo. Ebag tug vinunaude cuwgoc ice vubhidca davuw geok emugiz pariaw muez cutagfot egudueci fa kos wadwi. Me nov ah tuz ukaniso de wufruzen keh ajojib mevvospa cucjeznej zal narelpe mun girentab woobucik furjed.",
+    "bio": "Vobon apu kuhirur iwta fiwospi ihe uwliji abe esearaw la afaresdil wolajo bebraid. Leja vatizja dawnuvu fa iza alovigo oz otlilsom ehasu asduvosa ogobuco ugilen mud. Hikije ci nipwohbid zelpiwo fohas mo woos mihkadfa besfebve rofpantu saagi vic."
+  },
+  "apiKey": "6d99acd14811650b850992f18cc5eafb3529919ac40a5642d7e825953b25e577",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
