@@ -1,0 +1,26 @@
+{
+  "name": "Dylan Sherman",
+  "age": 29,
+  "address": {
+    "street": "Uzce Pass",
+    "city": "Vukdajol",
+    "state": "FL",
+    "zip": "10198"
+  },
+  "contact": {
+    "phone": "(303) 239-9431",
+    "servicePhone": "800779638"
+  },
+  "birthday": "1970-02-06T02:35:52.022Z",
+  "ip": "73.164.53.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Gozib suwiruw fe niwkos fe ro sivhepa jo can hof ocurabri orutihfip tagmad mogo. Jo dowkuz bit kut takfano epeimu aroriwbar of dewzutfin rulzo didi iskas su efter gaju. Or wipponi tuizo ri gobat boziweh ka nik noot to tijrurpep guebi oguki. Ege kujor nef jeb cog cupak ever jedacgun zijon liktasew wi za wuhiw rojonla pebimaf cabcuuzu tahug.",
+    "bio": "Wuj nenis ral jufmor jirreltuh suogeam hicel mumo mo op zubilelir ofevu. Gom cugcoav ucuzum biviw migid kofhuwku hi ut re con lonjehog na. Duj rareri du ev jetcu jo iwu alahiwab woatazib evmugcec mok vazaj. La nimavbod widkuffu evza ha rebeoge masihof bavog cahep jo wiso fucpeki jebif mileh fes."
+  },
+  "apiKey": "b5469b05e931c0fe5f34d377295137eb29f1353c4ae68fb5e68a459a0319dd49",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
