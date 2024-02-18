@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Fox",
+  "age": 22,
+  "address": {
+    "street": "Gemle Court",
+    "city": "Napovsav",
+    "state": "KS",
+    "zip": "32095"
+  },
+  "contact": {
+    "phone": "(418) 378-5669",
+    "servicePhone": "800369831"
+  },
+  "birthday": "1999-04-27T09:10:08.178Z",
+  "ip": "121.59.201.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Gahaiki lopoowa vauz ka pudzu neggudge nepi jesev pamfe ozuw zupebcoz ji joni gat jihun. Zudugho zas mo nurasoku dalup giz vecizfu uwatuzbi wo fi nir sic umi nilavbop gepeg. Iluhicov udku siud apovih udtin ca jiumwe sa te rigrovo jaz vacsi kiduj al igi apaniwul. Aso cubof diheda hawig owgoj wihigkib adcukedu ohuja dukulhic eb zap cobfetuc epepi migga kacapmej.",
+    "bio": "Uk ugac widnu luzek fuhu gasba isiemivo dujilo iheagu ohzubsek muf cuvrudel. Weinloc he penuwos rerzib cenlag abeug dac siragus wac ufgo jizez hatiben ultib gad paltuhega pavawa fal obtolfef. Jiz ga fudeb pofiula rul teinu jirlo lusow gehi jonu ziz la cum fikakli. Horhoule tobuiwe gavkehtu niviv wo fop huke emnocu vecol cagfohwe aliicuhep haamuruj okcahi es. Bok ekizo sabhudvem mifhokuf seevsu sar wof wur haba fazgo jo dekfug jizic kazehoh."
+  },
+  "apiKey": "79d7ec2fe0db635d0e889e28844967eccca897cfab870b5b66d7b6fdd93eed2c",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
