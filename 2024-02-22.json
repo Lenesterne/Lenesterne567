@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Tyler",
+  "age": 27,
+  "address": {
+    "street": "Dahgor Drive",
+    "city": "Lacaspo",
+    "state": "OK",
+    "zip": "62921"
+  },
+  "contact": {
+    "phone": "(515) 357-4264",
+    "servicePhone": "800633876"
+  },
+  "birthday": "1983-09-20T23:19:47.674Z",
+  "ip": "225.52.220.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Om acaewla vafici roze unluco conov hum hug howwu ac gorafu acpecu guksal enres ahuakuhu ul kas bijsaub. Hafnuuli cogfili gesu wos fazbajawo izi rol fusowed lemof wedvutub tus degvima. Soj lacgul heznizan cop emeotaki lina mukosop aputi vuupuba cormaw vub uh watow lucser unebojut fagakuv ho forci.",
+    "bio": "Jewtusdud wujazzi zererul opuivuzud ofhel tasigit defra wosma tosezeug dupuv dowpursi effisga tizor. Selut ufewi zocov siolaga zomkifu ire bujgat leovevo vuj vob alukamiv piv ki gumubdum. De mo fom rasala bevtos lev rorvi tiffac jour poc ligela um ufbom madinfo gudmarege wurtiaze kaza. Sodsep hubop kot duwzuhon hopfe negfop te kupfibzo gakrow jek lepfo tufwe ogiwo pah fu ehi aza kahduhzuz."
+  },
+  "apiKey": "94cc049bbc47739fafdf9d11841ab6b389896b00d033c508f13e4aae5cd232f0",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
