@@ -1,0 +1,26 @@
+{
+  "name": "Louise Harvey",
+  "age": 37,
+  "address": {
+    "street": "Azne Loop",
+    "city": "Tanikmit",
+    "state": "ID",
+    "zip": "36815"
+  },
+  "contact": {
+    "phone": "(745) 850-2869",
+    "servicePhone": "800679886"
+  },
+  "birthday": "1963-07-31T03:50:38.243Z",
+  "ip": "18.31.60.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Teg amegu uhluscet foobizik owe bo nu cupule casiw wocirpir fa dufbal vero eb beenri. Ugo ni mapu haudfuw jenpovcog runkug ize jo wi haftatrew tucutdur juzi hovi. Wuv gef jevceta fevek je ebagorih jerbaovo oc haulwu hirfalot idaneis budatuc ceklunufo nodko mi. Ejli iwsuko otunutu kuoto modfef rip natik duehsil recovacak japmugoz pan wuzkan.",
+    "bio": "Amnari lukavi sukojid oliuvonin fadafted dawmolal lami ka sissom nemtaczag pirakevu nusja dib ofmatoz. Utumerav ituddav vannow son dosvo wuf cokzokuk oruhoj arpuhme rowlaze ed ihfegwu me uwuofre vijcioc. Sagenfu helojju be je hap wehu daiw tiwame leravruf fipu dimagho aszaj hahufcew puwgeij zi. Rib nodunni podubarem ta sarcemu ho ugrip ogda pabab ip wocjudit zif obeduob mufaw boz. Muznef bumami bi dewat dov te oca tejafom hijbarmif ponzicmu wer noho itinih tidlih hilas cumov veb rubu."
+  },
+  "apiKey": "2dec4b4331f5d8cde97ece3490a3f3b94584b5fe87623d97ced114432e7f3b59",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
