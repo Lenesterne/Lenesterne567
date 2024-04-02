@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Medina",
+  "age": 35,
+  "address": {
+    "street": "Fasos Highway",
+    "city": "Revzook",
+    "state": "SD",
+    "zip": "80062"
+  },
+  "contact": {
+    "phone": "(427) 462-8715",
+    "servicePhone": "800357939"
+  },
+  "birthday": "1986-08-19T07:16:11.712Z",
+  "ip": "122.194.67.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Larut lov zonur wol haw lanuto kazoga susa ziet uhe zodokci up cab up. Kiga zez ri ripodo pipdu bitne giwa adelec lok gi ju futuka jitafohi. Nab zabep me wuwazcoh navsu esefi hokewab fizeza zemaahi mar ubujasir fan seganmes. So zopohuka poke utrucid sut nacagidis iheco ginsamvab if kibcu fikatodi le ut jistavet ho.",
+    "bio": "Fosi titu diho ve geoba omcut jozces fan fecties bidsasi pen saz. Wikli il rut coma unliara rutab vo ib meg gojefev ku vigtut ehito mosuc awo barpahki coza kidro. Boc ra uzouhowo navjuvo nejoew cowvat fo osoah noc toni fu pip kesebaf. Jos gu gafje of licpibzas pefigvav god memlizeju dejboapi cefsaw gic dajez loh."
+  },
+  "apiKey": "0b5bceb02fb0b5a5d4b9e4adf6e049a53df1b26c1c482a8be494d0fdd7033c00",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
